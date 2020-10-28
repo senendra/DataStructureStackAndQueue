@@ -11,6 +11,7 @@ namespace StackAndQueue
             linkedList.Push(30);
             linkedList.Push(56);
             linkedList.DisplayStack();
+            linkedList.IsEmpty();
         }
     }
 }
