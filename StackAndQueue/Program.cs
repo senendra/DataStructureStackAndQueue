@@ -17,6 +17,8 @@ namespace StackAndQueue
             linkedList.Enqueue(30);
             linkedList.Enqueue(70);
             linkedList.DisplayQueue();
+            linkedList.Dequeue();
+            linkedList.DisplayQueue();
         }
     }
 }
